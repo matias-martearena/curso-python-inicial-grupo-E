@@ -6,8 +6,6 @@
 
 ## Como se usa la informacion meteorologica y modelos predictivos para optimizar sus cultivos.
 
-## Introduccion a la agricultura con py
-
 ## Analisis de datos para deteccion de anomalias
 
 ## Agricultura regenerativa para hacer mas eficaz el proceso
