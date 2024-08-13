@@ -4,7 +4,7 @@
 
 ## Back-end ✅
 
-## Testing //TODO: Playright con TS / PyTest
+## Testing ✅
 
 ## Data base ✅
 
@@ -29,6 +29,11 @@
 
 -   Lenguajes de programacion: Java
 -   Frameworks: Spring Boot
+
+## Testing
+
+-   Front-end: Playright TS
+-   Back-end: Postman
 
 ## DataBase
 
