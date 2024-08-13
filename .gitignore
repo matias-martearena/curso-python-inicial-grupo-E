@@ -1,0 +1,96 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite
+dist/
+
+# Tailwind CSS
+.tailwind-cache/
+
+# Dependency directories
+.pip/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python-specific
+*.env
+*.venv
+*.idea/
+*.vscode/
+*.pylint.d/
+*.mypy_cache/
+.pytest_cache/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+htmlcov/
+.tox/
+noxfile.py
+noxfile-configs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data analysis files
+*.csv
+*.xlsx
+*.json
+
+# Ignore the requirements file if it's generated from pip freeze
+# Uncomment the line below if you prefer not to include it in version control
+# requirements.txt
+
+# Ignore .env file for sensitive configurations
+.env
