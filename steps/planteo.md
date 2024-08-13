@@ -37,7 +37,6 @@ Visualización básica de los datos
 **Plan de trabajo**
 
     - Determinar el nivel de dificultad estimada
-    - Crear una descripcion del proyecto en general
     - Determinar un plan de trabajo
 
 **Diseño**
@@ -81,33 +80,32 @@ Generación de informes y visualizaciones
 
 **Planteo del Proyecto:**
 
+En esta oportunidad, desarrollaremos un sistema de Monitoreo de Humedad del Suelo para AgroSpot.
 
-En esta oportunidad, desarrollaremos un sistema de Monitoreo de Humedad del Suelo para AgroSpot. 
+AgroSpot se dedica a la supervisión de 10,000 hectáreas de cultivos utilizando una combinación de drones y sensores avanzados. El objetivo es proporcionar a los agricultores una herramienta efectiva para interpretar los datos recogidos y mejorar la gestión del riego en sus campos. Para lograr esto, AgroSpot requiere el desarrollo de una interfaz de usuario intuitiva que facilite la interpretación y el análisis de la humedad del suelo.
 
- AgroSpot se dedica a la supervisión de 10,000 hectáreas de cultivos utilizando una combinación de drones y sensores avanzados. El objetivo es proporcionar a los agricultores una herramienta efectiva para interpretar los datos recogidos y mejorar la gestión del riego en sus campos. Para lograr esto, AgroSpot requiere el desarrollo de una interfaz de usuario intuitiva que facilite la interpretación y el análisis de la humedad del suelo. 
+Para optimizar la gestión del riego, AgroSpot necesita implementar un software especializado que permita a los agricultores monitorear y registrar la humedad del suelo en distintas áreas de sus campos. Este sistema no solo debe proporcionar datos precisos sobre la humedad, sino que también debe ofrecer herramientas para analizar esta información y tomar decisiones basadas en datos en tiempo real.
 
-Para optimizar la gestión del riego, AgroSpot necesita implementar un software especializado que permita a los agricultores monitorear y registrar la humedad del suelo en distintas áreas de sus campos. Este sistema no solo debe proporcionar datos precisos sobre la humedad, sino que también debe ofrecer herramientas para analizar esta información y tomar decisiones basadas en datos en tiempo real. 
+Características del Proyecto:
 
-Características del Proyecto: 
+Ingreso de Datos de Humedad del Suelo:
 
-Ingreso de Datos de Humedad del Suelo: 
+Los agricultores podrán introducir datos de humedad para diferentes sectores de sus campos, asegurando que la información recogida sea específica y relevante para cada área.
 
-Los agricultores podrán introducir datos de humedad para diferentes sectores de sus campos, asegurando que la información recogida sea específica y relevante para cada área. 
+Cálculo del Promedio de Humedad:
 
-Cálculo del Promedio de Humedad: 
+El sistema calculará el promedio de humedad del suelo para cada sector, proporcionando una visión general del estado del campo y ayudando a identificar áreas que puedan requerir atención especial.
 
-El sistema calculará el promedio de humedad del suelo para cada sector, proporcionando una visión general del estado del campo y ayudando a identificar áreas que puedan requerir atención especial. 
+Clasificación del Nivel de Humedad:
 
-Clasificación del Nivel de Humedad: 
+Los datos de humedad se clasificarán en niveles (bajo, óptimo, alto), lo que facilitará la interpretación rápida de las condiciones del suelo y ayudará a tomar decisiones sobre el riego de manera más eficiente.
 
-Los datos de humedad se clasificarán en niveles (bajo, óptimo, alto), lo que facilitará la interpretación rápida de las condiciones del suelo y ayudará a tomar decisiones sobre el riego de manera más eficiente. 
+Almacenamiento de Datos en Archivo CSV:
 
-Almacenamiento de Datos en Archivo CSV: 
+El sistema permitirá almacenar los datos de humedad en archivos CSV, facilitando la exportación y el análisis adicional de los datos utilizando herramientas externas.
 
-El sistema permitirá almacenar los datos de humedad en archivos CSV, facilitando la exportación y el análisis adicional de los datos utilizando herramientas externas. 
+Visualización Básica de los Datos:
 
-Visualización Básica de los Datos: 
-
-Se proporcionará una visualización básica de los datos que incluirá gráficos y tablas simples, ayudando a los agricultores a comprender la información de manera clara y efectiva. 
+Se proporcionará una visualización básica de los datos que incluirá gráficos y tablas simples, ayudando a los agricultores a comprender la información de manera clara y efectiva.
 
 El desarrollo de este sistema de monitoreo de humedad del suelo permitirá a AgroSpot proporcionar a los agricultores una herramienta esencial para la gestión eficiente del riego. Al integrar funcionalidades clave como el ingreso y cálculo de datos, la clasificación de humedad, el almacenamiento en formato CSV y una visualización básica, el software contribuirá significativamente a la optimización de los recursos hídricos y a la mejora de la productividad agrícola.
