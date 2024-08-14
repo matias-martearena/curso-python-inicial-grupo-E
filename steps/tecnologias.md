@@ -23,7 +23,7 @@
 -   Lenguaje: TypeScript
 -   Framework: React + Vite
 -   Estilo: Tailwind + Tailwind Components
--   Otros: Axios
+-   Otros: Axios, Chart.js (visualizacion de datos)
 
 ## Back
 
