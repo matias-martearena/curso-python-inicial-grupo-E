@@ -1,18 +1,6 @@
 Cosas a corregir: 
 
-# Mati
-1. El wireframe a papel y el figma.
-2. Agregar un wireframe en excalidraw.
-3. Especificar paleta de colores y fuentes para el proyecto
-
-# Nancy
-4. Agregar ultimos avances
-
-# Todos
-9. Hacer la presentacion del proyecto / Corregir el README ---
-
 # Mati / Maxi
 10. Hacer el front-end (opcional)
 
-# Todos
-11. Hacer la seccion de proximamente... (api rest del back, + funciones, etc)
+Final. Hacer la presentacion del proyecto + Corregir el README
