@@ -1,15 +1,4 @@
-pandas==2.0.1
-<<<<<<< HEAD
-numpy==1.25.0
-scikit-learn==1.3.0
-import csv from datetime 
-import datetime
-import matplotlib.pyplot as pltfrom collections 
-import defaultdict
-import seaborn as sns
-import pandas as pd
-=======
+pandas-2.0.1
 numpy-2.0.1
 matplotlib-3.9.2
 seaborn-0.13.2
->>>>>>> 4d67a6bf08bf72ddea1f6004e59d5e5339add0af

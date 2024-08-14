@@ -6,17 +6,7 @@ Cosas a corregir:
 3. Especificar paleta de colores y fuentes para el proyecto
 
 # Nancy
-4. Corregir el documento, dejar todo en una fuenta excepto los titulos con otra fuente. (como los de google docs)
-
-# Maxi
-5. Corregir el requirement.txt
-
-# Mati / Maxi
-6. Hacer el diagrama de la base de datos
-
-# Nancy
-7. Subir el google colab cuando este listo a este repo
-8. Pasar lo del google colab a un script py
+4. Agregar ultimos avances
 
 # Todos
 9. Hacer la presentacion del proyecto / Corregir el README ---
@@ -26,11 +16,3 @@ Cosas a corregir:
 
 # Todos
 11. Hacer la seccion de proximamente... (api rest del back, + funciones, etc)
-
-# Mati
-12. Correccion de la estructura de carpeta para los ficheros del repo
-
-
-
-nombre del campo
-porcentaje de humedad
