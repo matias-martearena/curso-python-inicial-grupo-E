@@ -29,8 +29,3 @@ Cosas a corregir:
 
 # Mati
 12. Correccion de la estructura de carpeta para los ficheros del repo
-
-
-
-nombre del campo
-porcentaje de humedad
