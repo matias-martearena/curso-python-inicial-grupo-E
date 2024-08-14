@@ -3,12 +3,4 @@ Cosas a corregir:
 # Mati / Maxi
 10. Hacer el front-end (opcional)
 
-<<<<<<< HEAD
-# Todos
-11. Hacer la seccion de proximamente... (api rest del back, + funciones, etc)
-
-# Mati
-12. Correccion de la estructura de carpeta para los ficheros del repo
-=======
 Final. Hacer la presentacion del proyecto + Corregir el README
->>>>>>> b174a8ea1fe4ed22faefd953bf3e9cd362b8bcf3

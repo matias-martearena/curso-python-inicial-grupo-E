@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 pandas==2.0.1
 scikit-learn==1.3.0
 numpy-2.0.1
@@ -10,9 +9,3 @@ import matplotlib.pyplot as pltfrom collections
 import defaultdict
 import seaborn as sns
 import pandas as pd
-=======
-pandas-2.0.1
-numpy-2.0.1
-matplotlib-3.9.2
-seaborn-0.13.2
->>>>>>> b174a8ea1fe4ed22faefd953bf3e9cd362b8bcf3
