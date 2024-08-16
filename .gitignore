@@ -83,10 +83,6 @@ noxfile-configs/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data analysis files
-*.csv
-*.xlsx
-*.json
 
 # Ignore the requirements file if it's generated from pip freeze
 # Uncomment the line below if you prefer not to include it in version control

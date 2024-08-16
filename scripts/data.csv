@@ -1,0 +1,9 @@
+fecha,sector,humedad,etapa
+2024-08-10 14:23:15,Campo1,65,Germinación
+2024-08-10 15:00:30,Campo2,55,Crecimiento
+2024-08-10 16:12:45,Campo1,45,Floración
+2024-08-10 17:25:00,Campo3,25,Maduración
+2024-08-11 08:10:20,Campo2,72,Crecimiento
+2024-08-11 09:45:35,Campo3,35,Floración
+2024-08-11 10:30:50,Campo1,80,Maduración
+2024-08-11 11:55:05,Campo2,50,Germinación
