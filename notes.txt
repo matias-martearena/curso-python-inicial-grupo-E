@@ -1,6 +1,0 @@
-Cosas a corregir: 
-
-# Mati / Maxi
-10. Hacer el front-end (opcional)
-
-Final. Hacer la presentacion del proyecto + Corregir el README
