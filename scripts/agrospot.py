@@ -5,15 +5,8 @@ from collections import defaultdict
 import seaborn as sns
 import pandas as pd
 
-import csv
-from datetime import datetime
-import matplotlib.pyplot as plt
-from collections import defaultdict
-import seaborn as sns
-import pandas as pd
-
 class SistemaMonitoreoHumedad:
-    2
+    
     def __init__(self):
         # Diccionario para almacenar los datos de humedad por sector
         self.datos_humedad = defaultdict(list)
@@ -80,6 +73,7 @@ class SistemaMonitoreoHumedad:
                         'clasificacion': clasificacion,
                         'etapa': etapa
                     })
+                    self.guardar_datos(fecha, sector, humedad, clasificacion, etapa)
             print("Datos cargados exitosamente.")
         except FileNotFoundError:
             print("Archivo no encontrado.")
